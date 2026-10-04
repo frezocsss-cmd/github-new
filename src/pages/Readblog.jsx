@@ -2,7 +2,7 @@ import React from 'react'
 import img from '../assets/people-working-in-front-of-computer-3182763.png'
 import img2 from '../assets/photo.jpg'
 
-function Blogread() {
+function Readblog() {
   return (
     <div className="bg-white min-h-screen font-sans text-[#282938]">
       <main className="py-12 md:py-20 px-4 sm:px-6 lg:px-8">
@@ -53,7 +53,7 @@ function Blogread() {
               </a>{' '}
               proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </p>
-            
+
             <ul className="list-disc list-inside space-y-3 text-base md:text-lg text-[#282938]/70 my-6 pl-2 leading-relaxed">
               <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.</li>
               <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.</li>
@@ -95,4 +95,4 @@ function Blogread() {
   )
 }
 
-export default Blogread
+export default Readblog
