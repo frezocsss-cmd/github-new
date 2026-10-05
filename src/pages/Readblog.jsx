@@ -1,5 +1,5 @@
 import React from 'react'
-import img from '../assets/people-working-in-front-of-computer-3182763.png'
+import img from '../assets/people.png'
 import img2 from '../assets/photo.jpg'
 
 function Readblog() {
