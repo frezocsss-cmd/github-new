@@ -231,18 +231,6 @@ function Features() {
           </div>
         </div>
       </section>
-
-      {/* FOOTER */}
-      <footer className="mx-auto flex max-w-[1180px] items-center justify-between px-8 py-7 text-xs text-gray-400">
-        <span>© 2026 Client-first</span>
-
-        <div className="flex gap-7">
-          <span>Home</span>
-          <span>About</span>
-          <span>Features</span>
-          <span>Contact</span>
-        </div>
-      </footer>
     </main>
   );
 }
